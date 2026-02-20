@@ -173,10 +173,4 @@ For issues or questions:
 
 ---
 
-## 📄 License
-
-This project is part of the AI Tester Blueprint series.
-
----
-
 **Last Updated:** February 20, 2026
