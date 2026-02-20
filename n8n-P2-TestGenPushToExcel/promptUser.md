@@ -1,0 +1,1 @@
+Please read the PRD and Jira ticket SCRUM-8 and provide me 10 positive test cases for the same. Ensure that no assumptions are made and avoid hallucinating any requirements. Once completed, push the test cases to the specified Google Sheet (Update Sheet).
